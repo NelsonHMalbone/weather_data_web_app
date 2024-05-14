@@ -7,3 +7,6 @@ Making a webapp with a user interface:
 - use a slider bar for max of 5 days of weather 
 - use a graph to see high and low points
 - a sky view that will show sun clouds rain
+
+We are using Streamlit for this project. 
+the App+Design.png is just the design of app
