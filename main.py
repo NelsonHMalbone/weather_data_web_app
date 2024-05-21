@@ -61,7 +61,7 @@ def main():
                 img_pathdata = [conditions[condition] for condition in sky_conditions]
 
                 st.image(img_pathdata, width=115)
-    except:
+    except KeyError:
         st.write("Not a city: Please Check Your Spelling")
 
 
